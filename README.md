@@ -23,7 +23,8 @@ df -h /production
 echo "/dev/vg_backup/lv_app_logs /production ext3 defaults 0 0" | sudo tee -a /etc/fstab
 
 ## Output:
-<img width="424" height="145" alt="image" src="https://github.com/user-attachments/assets/a60a0e72-d5ce-4547-8231-e5bd74386a00" />
+<img width="424" height="145" alt="image" src="https://github.com/user-attachments/assets/540f12ae-ae1a-4bbe-9ba0-f32a97a4f471" />
+
 
 ## Result:
 Thus the code worked correctly in the RedHat Terminal(Lab)
